@@ -39,7 +39,7 @@ function App() {
       
     } else {
       setSelectedImage(null);
-      setTextResult("")
+      setTextResult("");
     }
   }
 
